@@ -1,0 +1,13 @@
+C:\Users\Hp\Desktop\Proyectos\MailSender\bin\Debug\netcoreapp3.1\MailSender.exe
+C:\Users\Hp\Desktop\Proyectos\MailSender\bin\Debug\netcoreapp3.1\MailSender.deps.json
+C:\Users\Hp\Desktop\Proyectos\MailSender\bin\Debug\netcoreapp3.1\MailSender.runtimeconfig.json
+C:\Users\Hp\Desktop\Proyectos\MailSender\bin\Debug\netcoreapp3.1\MailSender.runtimeconfig.dev.json
+C:\Users\Hp\Desktop\Proyectos\MailSender\bin\Debug\netcoreapp3.1\MailSender.dll
+C:\Users\Hp\Desktop\Proyectos\MailSender\bin\Debug\netcoreapp3.1\MailSender.pdb
+C:\Users\Hp\Desktop\Proyectos\MailSender\obj\Debug\netcoreapp3.1\MailSender.csprojAssemblyReference.cache
+C:\Users\Hp\Desktop\Proyectos\MailSender\obj\Debug\netcoreapp3.1\MailSender.AssemblyInfoInputs.cache
+C:\Users\Hp\Desktop\Proyectos\MailSender\obj\Debug\netcoreapp3.1\MailSender.AssemblyInfo.cs
+C:\Users\Hp\Desktop\Proyectos\MailSender\obj\Debug\netcoreapp3.1\MailSender.csproj.CoreCompileInputs.cache
+C:\Users\Hp\Desktop\Proyectos\MailSender\obj\Debug\netcoreapp3.1\MailSender.dll
+C:\Users\Hp\Desktop\Proyectos\MailSender\obj\Debug\netcoreapp3.1\MailSender.pdb
+C:\Users\Hp\Desktop\Proyectos\MailSender\obj\Debug\netcoreapp3.1\MailSender.genruntimeconfig.cache
